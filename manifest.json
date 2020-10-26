@@ -6,13 +6,13 @@
     "scope": "/msnzone-pwa/",
     "display": "browser",
     "start_url": "https://theduck8283.github.io/msnzone-pwa/",
-    "background_color": "#000000",
+    "background_color": "#add8e6",
     "theme_color": "transparent",
-    "description": "",
+    "description": "Play online games in the brand new MSN Zone App! [Unofficial]",
     "orientation": "any",
     "related_applications": [],
     "prefer_related_applications": false,
-    "icons": [],
+    "icons": ["assets/logo.png"],
     "url": "https://theduck8283.github.io/msnzone-pwa/",
     "screenshots": []
 }
