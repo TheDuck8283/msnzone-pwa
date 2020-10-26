@@ -1,0 +1,18 @@
+{
+    "dir": "ltr",
+    "lang": "ro",
+    "name": "MSN Zone",
+    "short_name": "MSN Zone",
+    "scope": "/msnzone-pwa/",
+    "display": "browser",
+    "start_url": "https://theduck8283.github.io/msnzone-pwa/",
+    "background_color": "#000000",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [],
+    "url": "https://theduck8283.github.io/msnzone-pwa/",
+    "screenshots": []
+}
